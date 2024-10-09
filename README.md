@@ -6,11 +6,6 @@
 
 **This is a responsive portfolio website built using HTML, CSS, and JavaScript. It includes multiple pages showcasing various sections such as career information, education details, gallery, hobbies, skills, and testimonials. The contact page is fully functional and uses emailjs to send emails to users upon form submission.**
 
-## Live Demo
-
-You can view the live demo of this portfolio website on Netlify:
-<br>
-Netlify: [Responsive Portfolio Website](https://ritoncharlox-portfolio-website.netlify.app/)
 
 ## Pages
 
